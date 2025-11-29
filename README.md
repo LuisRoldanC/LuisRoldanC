@@ -146,6 +146,6 @@ Me considero una persona que aprende rápido, con enfoque práctico y creativo, 
 
 ## 📬 Contacto
 
-📧 **luisroldancastro [at] outlook [dot] com**  
+📧 **luisalberto24050@gmail.com**  
 🌐 **GitHub:** https://github.com/LuisRoldanC
 
