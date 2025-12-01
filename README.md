@@ -11,7 +11,7 @@
 
 ## 🚀 Acerca de mí
 
-Soy Desarrollador Full-Stack con experiencia construyendo soluciones tecnológicas completas, desde la capa física (sensores, microcontroladores, protocolos de comunicación) hasta interfaces modernas y servicios en la nube. Me especializo en integrar hardware, software y cloud para crear sistemas escalables, en tiempo real y con orientación a datos.
+Soy Desarrollador Full-Stack con formacion (en curso) de Ingenieria en Sistemas Computacionales con experiencia construyendo soluciones tecnológicas completas, desde la capa física (sensores, microcontroladores, protocolos de comunicación) hasta interfaces modernas y servicios en la nube. Me especializo en integrar hardware, software y cloud para crear sistemas escalables, en tiempo real y con orientación a datos.
 
 Trabajo con tecnologías como React Native, Python, MQTT, Firebase, AWS, ESP32 y TIG Stack, desarrollando proyectos que combinan movilidad, web, IoT e infraestructura en un solo ecosistema.
 
